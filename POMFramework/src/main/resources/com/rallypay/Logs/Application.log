@@ -1,0 +1,1103 @@
+[INFO ][29-Jun-2023 21:29:30 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 21:29:43 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 21:29:46 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 21:59:23 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 21:59:34 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 21:59:38 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 22:00:55 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 22:01:10 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 22:01:29 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 22:18:28 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 22:18:37 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 22:18:51 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 22:20:54 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 22:21:04 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 22:21:08 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 22:24:13 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 22:24:24 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 22:24:27 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 22:28:58 PM] BaseTest.setUp:(26) - webdriver setup done
+[INFO ][29-Jun-2023 22:29:05 PM] BaseTest.setUp:(29) - Website hit
+[INFO ][29-Jun-2023 22:29:09 PM] BaseTest.tearDown:(38) - driver quitted
+[INFO ][29-Jun-2023 23:09:22 PM] BaseTest.setUp:(28) - webdriver setup done
+[INFO ][29-Jun-2023 23:09:34 PM] BaseTest.setUp:(31) - Website hit
+[INFO ][29-Jun-2023 23:09:39 PM] BaseTest.tearDown:(40) - driver quitted
+[INFO ][01-Jul-2023 16:15:09 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][01-Jul-2023 16:15:17 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[INFO ][01-Jul-2023 16:15:20 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][01-Jul-2023 16:37:02 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][01-Jul-2023 16:37:10 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[INFO ][01-Jul-2023 16:37:14 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:05:49 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:05:55 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[INFO ][05-Jul-2023 18:05:57 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:07:11 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:07:16 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:07:16 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:07:16 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:07:16 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:07:16 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:07:17 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:07:17 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[INFO ][05-Jul-2023 18:07:18 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:10:44 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:10:49 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:10:49 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:10:49 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:10:49 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:10:50 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:10:50 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[INFO ][05-Jul-2023 18:10:51 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:13:58 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:14:03 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:14:04 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:14:04 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:14:04 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:14:04 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:14:08 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:18:54 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:18:59 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:19:00 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:19:00 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:19:00 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:19:00 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:19:04 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:21:24 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:21:30 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:21:30 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:21:30 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:21:30 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:21:30 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:21:30 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:21:31 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:21:31 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:21:31 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:21:31 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:21:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:21:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:21:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:21:31 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:21:34 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:40:48 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:40:54 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:40:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:40:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:40:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:40:54 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:40:55 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:40:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:40:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:40:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:40:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:40:55 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:40:59 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:42:30 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:42:35 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:42:35 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:42:35 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:42:35 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:42:36 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:42:36 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:42:36 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:42:36 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:42:36 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:42:36 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:42:40 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:44:56 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:45:01 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:45:01 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:45:01 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:45:01 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:45:02 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:45:02 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:45:02 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:45:02 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:45:02 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:45:02 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:45:07 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][05-Jul-2023 18:52:17 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][05-Jul-2023 18:52:23 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][05-Jul-2023 18:52:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:52:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:52:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][05-Jul-2023 18:52:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][05-Jul-2023 18:52:24 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][05-Jul-2023 18:52:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[DEBUG][05-Jul-2023 18:52:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:52:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:52:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:52:24 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][05-Jul-2023 18:52:26 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ][05-Jul-2023 18:52:29 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][12-Jul-2023 23:42:56 PM] BaseTest.setUp:(32) - webdriver setup done
+[DEBUG][12-Jul-2023 23:42:57 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:42:57 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:42:57 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:42:57 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][12-Jul-2023 23:42:58 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][12-Jul-2023 23:42:58 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[DEBUG][12-Jul-2023 23:42:59 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:42:59 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:42:59 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][12-Jul-2023 23:42:59 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:42:59 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][12-Jul-2023 23:47:49 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][12-Jul-2023 23:47:54 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][12-Jul-2023 23:47:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:47:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:47:54 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][12-Jul-2023 23:47:55 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[DEBUG][12-Jul-2023 23:47:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:47:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:47:55 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][12-Jul-2023 23:47:55 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:47:55 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][12-Jul-2023 23:47:57 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][12-Jul-2023 23:49:18 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][12-Jul-2023 23:49:23 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][12-Jul-2023 23:49:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:49:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:49:23 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][12-Jul-2023 23:49:23 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][12-Jul-2023 23:49:24 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[DEBUG][12-Jul-2023 23:49:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:49:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:49:24 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][12-Jul-2023 23:49:24 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:49:24 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][12-Jul-2023 23:49:25 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][12-Jul-2023 23:52:04 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][12-Jul-2023 23:52:10 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][12-Jul-2023 23:52:10 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:52:10 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:52:10 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][12-Jul-2023 23:52:11 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[DEBUG][12-Jul-2023 23:52:11 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][12-Jul-2023 23:52:11 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][12-Jul-2023 23:52:11 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[DEBUG][12-Jul-2023 23:52:11 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][12-Jul-2023 23:52:11 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][12-Jul-2023 23:52:12 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][27-Jul-2023 08:44:47 AM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][27-Jul-2023 08:44:52 AM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][27-Jul-2023 08:44:52 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][27-Jul-2023 08:44:52 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][27-Jul-2023 08:44:52 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][27-Jul-2023 08:44:53 AM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][27-Jul-2023 08:44:53 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][27-Jul-2023 08:44:59 AM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][27-Jul-2023 09:35:14 AM] BaseTest.setUp:(32) - webdriver setup done
+[DEBUG][27-Jul-2023 09:35:14 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][27-Jul-2023 09:35:14 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][27-Jul-2023 09:35:14 AM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][27-Jul-2023 09:35:15 AM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][27-Jul-2023 09:35:15 AM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][29-Jul-2023 22:16:13 PM] BaseTest.setUp:(32) - webdriver setup done
+[DEBUG][29-Jul-2023 22:16:14 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][29-Jul-2023 22:16:14 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][29-Jul-2023 22:16:14 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][29-Jul-2023 22:16:15 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][29-Jul-2023 22:16:15 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][29-Jul-2023 22:25:10 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][29-Jul-2023 22:25:26 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][29-Jul-2023 22:25:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][29-Jul-2023 22:25:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][29-Jul-2023 22:25:26 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][29-Jul-2023 22:25:27 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][29-Jul-2023 22:25:27 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][29-Jul-2023 22:25:37 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][29-Jul-2023 23:34:00 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][29-Jul-2023 23:34:05 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][29-Jul-2023 23:34:05 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][29-Jul-2023 23:34:05 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][29-Jul-2023 23:34:05 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:34:05 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][29-Jul-2023 23:34:06 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][29-Jul-2023 23:34:06 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][29-Jul-2023 23:34:10 PM] BaseTest.tearDown:(63) - driver quitted
+[INFO ][29-Jul-2023 23:35:22 PM] BaseTest.setUp:(32) - webdriver setup done
+[INFO ][29-Jul-2023 23:35:31 PM] BaseTest.setupBrowserAndURL:(45) - Website hit
+[DEBUG][29-Jul-2023 23:35:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG][29-Jul-2023 23:35:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG][29-Jul-2023 23:35:31 PM] PackageRelationshipCollection.parseRelationshipsPart:(309) - Parsing relationship: /_rels/.rels
+[TRACE][29-Jul-2023 23:35:31 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(196) - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.initFromHeader:(231) - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.<init>:(206) - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle themefd26doctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stylesheet5d8bdoctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctstylesheet4257type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfonts6623type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfont14d8type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfills2c6ftype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctfill550ctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborders0d66type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctborderf935type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellxfs1322type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctxf97f7type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctdxfsb26atype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle cttablestyles872ftype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle sstf81fdoctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsst44f3type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrsta472type
+[DEBUG][29-Jul-2023 23:35:32 PM] POIXMLFactory.createDocumentPart:(65) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle workbookec17doctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworkbook83c3type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheets49fdtype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheet4dbetype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle strelationshipid1e94type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle worksheetf539doctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctworksheet530dtype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctsheetdata8408type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctrowdd39type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcell842btype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcellrefe4e0type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcols627ctype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle ctcola95ftype
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stxstringf179type
+[TRACE][29-Jul-2023 23:35:32 PM] SchemaTypeSystemImpl.resolveHandle:(935) - Resolving type for handle stcelltypebf95type
+[INFO ][29-Jul-2023 23:35:36 PM] BaseTest.tearDown:(63) - driver quitted

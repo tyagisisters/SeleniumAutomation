@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.969">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Login"
+                time="1.713"
+                classname="com.rallypay.tests.LoginTest">
+            </testcase>
+            <testcase
+                name="Login"
+                time="1.256"
+                classname="com.rallypay.tests.LoginTest">
+            </testcase>
+</testsuite>

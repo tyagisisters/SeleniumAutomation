@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false" thread-count="6" verbose="1">
+<listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+      <listener class-name="com.rallypay.listeners.TestListener"></listener>
+  </listeners>
+  <!--<parameter name="browser" value="Chrome"/>-->
+
+    <!--Values QA_URL DEV_URL PROD_URL-->
+    <parameter name="URL" value="QA_URL"/>
+
+    <!--Values QA DEV UAT PROD --> 
+    <parameter name="Env" value="QA"/>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.rallypay.tests.BaseTest" />
+			<class name="com.rallypay.tests.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
